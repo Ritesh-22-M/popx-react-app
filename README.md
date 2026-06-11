@@ -6,7 +6,7 @@ A pixel-perfect React.js implementation of the PopX mobile app UI from the Adobe
 🔗 [Hosted Link](#) ← update after deploying
 
 ## GitHub
-🔗 [Repository](#) ← update after pushing
+🔗 [Repository](https://github.com/RiteshMohanty/popx-react-app) ← update after pushing
 
 ---
 
