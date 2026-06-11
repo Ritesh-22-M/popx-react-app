@@ -3,10 +3,10 @@
 A pixel-perfect React.js implementation of the PopX mobile app UI from the Adobe XD design.
 
 ## Live Demo
-🔗 [Hosted Link](#) ← update after deploying
+🔗 [Hosted Link](https://popx-react-app-three.vercel.app) ← update after deploying
 
 ## GitHub
-🔗 [Repository](https://github.com/RiteshMohanty/popx-react-app) ← update after pushing
+🔗 [Repository](https://github.com/Ritesh-22-M/popx-react-app.git) ← update after pushing
 
 ---
 
